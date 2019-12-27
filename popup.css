@@ -1,0 +1,32 @@
+body {
+    background-color: #606060;
+    color: #DDD;
+}
+
+h4 {
+    margin: auto;
+    text-shadow: 1px 1px 0 #000;
+}
+
+h6 {
+    margin: auto;
+    color: #CCC;
+    font-size: 10px;
+    font-weight: 400;
+    text-shadow: 1px 1px 0 #000;
+}
+
+button {
+    border-color: #000;
+    border-width: 1px;
+    padding: 4px 6px 4px 6px;
+}
+
+input {
+    background-color: #B0B0B0;
+    border-color: #606060;
+    border-width: 1.5px;
+    font-size: 16px;
+    font-weight: 500;
+    width: 120px;
+}
